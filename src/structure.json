@@ -1,0 +1,38 @@
+[
+  {
+    "attr": {
+      "id": "l1_L3JvbWFuMi9oZXBhdGljc19zcGVjaWVzXzEuY3N2",
+      "rel": "default",
+      "originalPath": "S:/users/roman2/hepatics_species_1.csv"
+    },
+    "data": "hepatics_species_1.csv",
+    "state": ""
+  },
+  {
+    "attr": {
+      "id": "l1_L3JvbWFuMi9oZXBhdGljc19zcGVjaWVzXzIuY3N2",
+      "rel": "default",
+      "originalPath": "S:/users/roman2/hepatics_species_2.csv"
+    },
+    "data": "hepatics_species_2.csv",
+    "state": ""
+  },
+  {
+    "attr": {
+      "id": "l1_L3JvbWFuMi9oZXBhdGljc19zcGVjaWVzXzJfdGVzdC50eHQ",
+      "rel": "default",
+      "originalPath": "S:/users/roman2/hepatics_species_2_test.txt"
+    },
+    "data": "hepatics_species_2_test.txt",
+    "state": ""
+  },
+  {
+    "attr": {
+      "id": "l1_L3JvbWFuMi9xcXFx",
+      "rel": "folder",
+      "originalPath": "S:/users/roman2/qqqq"
+    },
+    "data": "qqqq",
+    "state": "closed"
+  }
+]

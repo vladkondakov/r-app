@@ -1,0 +1,20 @@
+[
+  {
+    "attr": {
+      "id": "l1_L3JvbWFuMi9oZXBhdGljc19zcGVjaWVzXzIuY3N213asd",
+      "rel": "default",
+      "originalPath": "S:/users/roman2/hepatics_species_2.csv"
+    },
+    "data": "hepatics_species_2.csv",
+    "state": ""
+  },
+  {
+    "attr": {
+      "id": "l1_L3JvbWFuMi9oZXBhdGljc19zcGVjaWVzXzJfdGVzdC50eHQ14ad",
+      "rel": "folder",
+      "originalPath": "S:/users/roman2/qqqq/asdasd/sdfbsfg"
+    },
+    "data": "sdfbsfg",
+    "state": "closed"
+  }
+]
