@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.css' 
 import CurrentDirectory from './CurrentDirectory';
 import exampleStructure from '../structure.json';
 import exampleFolderStructure from '../folderStructure.json';
@@ -149,9 +150,9 @@ class FTMLowerPart extends React.Component {
             onClick={this.handleClickItem.bind(this, item)}
             item={item}
           />
-          <ul>
+          <ul class="list-group">
             {item.structure.map(c => (
-              <li key={c.attr.id}>{this.renderItem(c)}</li>
+              <li key={c.attr.id} style={{paddingLeft: '5%', listStyleType: 'none'}}>{this.renderItem(c)}</li>
             ))}
           </ul>
         </div>

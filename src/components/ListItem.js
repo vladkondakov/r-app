@@ -6,7 +6,7 @@ class ListItem extends React.Component {
     const { item, onClick } = this.props;
     return (
       <div>
-        <button onClick={onClick}>{item.data}</button>
+        <button className="list-group-item list-group-item-action" onClick={onClick}>{item.data}</button>
       </div>
     );
   }
