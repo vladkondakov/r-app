@@ -135,7 +135,7 @@ class FTMLowerPart extends React.Component {
     return (
       <div className="jumbotron">
         <CurrentDirectory currentDir={currentDir} />
-        {this.renderStructure(fullStructure)}\
+        {this.renderStructure(fullStructure)}
       </div>
     );
   }
