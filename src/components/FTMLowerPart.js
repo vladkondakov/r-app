@@ -150,7 +150,7 @@ class FTMLowerPart extends React.Component {
             onClick={this.handleClickItem.bind(this, item)}
             item={item}
           />
-          <ul class="list-group">
+          <ul className="list-group">
             {item.structure.map(c => (
               <li key={c.attr.id} style={{paddingLeft: '5%', listStyleType: 'none'}}>{this.renderItem(c)}</li>
             ))}

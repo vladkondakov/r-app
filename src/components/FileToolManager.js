@@ -1,19 +1,19 @@
 import React from 'react';
 
 import FTMUpperPart from './FTMUpperPart';
-import FTMLowerPart from './FTMLowerPart';
+import FTMLowerPart2 from './FTMLowerPart2';
 import 'bootstrap/dist/css/bootstrap.css';
 
 class FileToolManager extends React.Component {
   state = {
-    user: 'jny'
+    user: 'root'
   };
 
   render() {
     return (
       <div className="container">
         <FTMUpperPart />
-        <FTMLowerPart user={this.state.user} />
+        <FTMLowerPart2 user={this.state.user} />
       </div>
     );
   }
